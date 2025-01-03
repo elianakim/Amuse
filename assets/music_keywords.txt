@@ -1,0 +1,254 @@
+Dance
+Festive
+Groovy
+Mid-Tempo
+Syncopated
+Tipsy
+Atmospheric
+Cold
+Doom
+Dramatic
+Sinister
+Adjunct
+Art
+Capriccio
+Mellifluous
+Nü
+Progressive
+Unusual
+Anthemic
+Emotional
+Happy
+Jubilant
+Melancholy
+Sad
+Aggressive
+Banger
+Power
+Stadium
+Stomp
+Broadway
+Cabaret
+Lounge
+Operatic
+Storytelling
+Torch-Lounge
+Theatrical
+Troubadour
+Vegas
+Ethereal
+Majestic
+Mysterious
+Ambient
+Cinematic
+Heat
+Slow
+Sparse
+German Schlager
+Glam
+Glitter
+Groovy
+Bedroom
+Chillwave
+Ethereal
+Intimate
+Sadcore
+Carnival
+Distorted
+Glitchy
+Haunted
+Hollow
+Musicbox
+Random
+Arabian
+Bangra
+Calypso
+Chalga
+Egyptian
+Hindustani
+Hōgaku
+Jewish Music
+Klezmer
+Matsuri
+Middle East
+Polka
+Russian Navy Song
+Suomipop
+Tribal
+Appalachian
+Bluegrass
+Country
+Folk
+Freak Folk
+Western
+Afro-Cuban
+Dance Pop
+Disco
+Dubstep
+Disco Funk
+EDM
+Electro
+High-NRG
+House
+Trance
+Ambient
+Downtempo
+Synthwave
+Trap
+Ambient
+Cyberpunk
+Drum’n’bass
+Dubstep
+Electronic
+Hypnogogical
+IDM
+Phonk
+Synthpop
+Techno
+Trap
+Bebop
+Gospel
+Electro
+Frutiger Aero
+Jazz
+Latin Jazz
+RnB
+Soul
+Bossa Nova
+Latin Jazz
+Forró
+Mambo
+Salsa
+Tango
+Afrobeat
+Dancehall
+Dub
+Reggae
+Reggaeton
+Black Metal
+Deathcore
+Death Metal
+Heavy Metal
+Heavy Metal Trap
+Metalcore
+Nu Metal
+Power Metal
+Pop
+Dance Pop
+Pop Rock
+Kpop
+Jpop
+RnB
+Synthpop
+Classic Rock
+Blues Rock
+Emo
+Glam Rock
+Hardcore Punk
+Indie
+Industrial Rock
+Punk
+Rock
+Skate Rock
+Skatecore
+Suomipop
+Funk
+Electro
+HipHop
+RnB
+Phonk
+Rap
+Trap
+Elevator
+Jingle
+Muzak
+Adan
+Adjan
+Call to Prayer
+Gregorian Chant
+I Want Song
+Hero Theme
+Strut
+March
+Military
+Villain Theme
+Lullaby
+Nursery Rhyme
+Sing-along
+Toddler
+Adagio
+Adjunct
+Andante
+Allegro
+Capriccio
+Acoustic Guitar
+Bass
+Doublebass
+Electricbass
+Electric Guitar
+Fingerstyle Guitar
+Percussion
+Chaotic
+Distorted
+Glitch
+Noise
+Random
+Stuttering
+glissando trombone
+legato cello
+spiccato violins
+staccato viola
+Symphonic
+1960s
+Barbershop
+Big Band
+Classic
+Doo Wop
+Girl Group
+Mambo
+Salooncore
+Swing
+Americana
+Barbershop
+Christmas Carol
+Traditional
+A Cappella
+Arabian Ornamental
+Dispassionate
+Emotional
+Ethereal
+Gregorian chant
+Hindustani
+Lounge Singer
+Melismatic
+Monotone
+Narration
+Resonant
+Spoken Word
+Sprechgesang
+Sultry
+Scream
+Torchy
+Vocaloid
+Jamcore
+Rockout
+Synthwave
+Jazzwave
+Popwave
+Ambientwave
+Dancejam
+Electrojam
+Chillout
+Funkwave
+Housewave
+Discojam
+Trapwave
+Retrojam
+Punkcore
+Metalcore
+Folkwave
+Groovejam
+Hiphopcore
+Electrocore
+Dubcore
+Glitchcore
