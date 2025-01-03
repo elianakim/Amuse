@@ -16,7 +16,7 @@ This repository contains the code for the chord generation method used in <a hre
 ### 1. Environment setup
 
 ```bash
-conda env create -f environment.yml -n amuse
+conda env create -f amuse.yml -n amuse
 conda activate amuse
 ```
 
