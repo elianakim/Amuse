@@ -78,7 +78,7 @@ To interactively generate chords based on keywords, run:
 ```bash
 python generate.py --px_path <path_to_px> <step_to_load> --qx_path <path_to_qx> --qx_step <step_to_load> --rej_M <threshold_M> --rej_T <temperature>
 ```
-This opens an interactive terminal where you can input keywords and generate chords using two methods: (i) random-sampled LLM (GPT-4o) and rejection-sampled LLM (Amuse) chords.
+This opens an interactive terminal where you can input keywords and generate chords using two methods: (i) random-sampled LLM (GPT-4o) and (ii) rejection-sampled LLM (Amuse) chords.
 
 ## Notes
 
